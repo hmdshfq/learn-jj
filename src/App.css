@@ -3,3 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+code {
+  background-color: hsl(210deg 20% 90%);
+  padding-inline: 0.2em;
+  font-size: 1rem;
+}
