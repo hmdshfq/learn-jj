@@ -1,13 +1,14 @@
 #root {
-  max-width: 1280px;
+  max-width: 60ch;
   margin: 0 auto;
   padding: 2rem;
   font-family: 'Karla', sans-serif;
+  line-height: 1.5;
 }
 
 code {
-  background-color: hsl(210deg 20% 90%);
-  padding-inline: 0.2em;
-  font-size: 1rem;
+  background-color: hsl(210deg 20% 95%);
+  padding: 0.2em;
+  font-size: 0.875rem;
   font-family: 'Dank Mono', monospace;
 }
