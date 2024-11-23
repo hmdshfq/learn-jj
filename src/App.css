@@ -2,10 +2,12 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
+  font-family: 'Karla', sans-serif;
 }
 
 code {
   background-color: hsl(210deg 20% 90%);
   padding-inline: 0.2em;
   font-size: 1rem;
+  font-family: 'Dank Mono', monospace;
 }
