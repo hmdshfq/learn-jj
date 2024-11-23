@@ -13,6 +13,7 @@ Jujutsu has some basic commands:
 - To describe a change so humans can understand them, use \`jj describe\`.
 - We can look at our work with \`jj st\`.
 - When we are done, we can start our next change with \`jj new\`.
+- We can review our repository's contents with \`jj log\`
 `;
 
     return <Markdown>{markdown}</Markdown>;
