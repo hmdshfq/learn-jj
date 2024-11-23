@@ -23,6 +23,9 @@ The workflow goes like this:
 - We describe the work we want to do.
 - We create a new empty change on top of that one.
 - As we produce work we want to put into our change, we use \`jj squash\` to move changes from @ into the change where we described what to do.
+
+## Branching, merging, and conflicts
+
 `;
 
     return <Markdown>{markdown}</Markdown>;
